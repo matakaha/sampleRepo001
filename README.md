@@ -1,0 +1,2 @@
+# sampleRepo001
+vNet内にVMを１台作成するBicep
